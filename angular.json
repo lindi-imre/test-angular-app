@@ -66,10 +66,7 @@
             }
           },
           
-          "defaultConfiguration": "development",
-          "options": {
-                        "port": 10000
-                    }
+          "defaultConfiguration": "development"
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n"
